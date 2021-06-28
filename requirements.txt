@@ -1,0 +1,10 @@
+altair
+pandas
+matplotlib
+jupyter
+notebook
+nltk
+numpy
+jupyter-offlinenotebook
+stanza
+spacy
