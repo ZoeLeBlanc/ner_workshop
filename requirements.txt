@@ -7,4 +7,3 @@ nltk
 numpy
 jupyter-offlinenotebook
 stanza
-spacy
