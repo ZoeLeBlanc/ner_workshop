@@ -5,3 +5,5 @@ nltk
 numpy
 jupyter-offlinenotebook
 stanza
+pyvis
+networkx
