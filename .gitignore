@@ -2,3 +2,5 @@
 scratch/
 test.csv
 ner_hum_env/
+large_nlp/
+films_stanza.csv

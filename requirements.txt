@@ -7,3 +7,6 @@ jupyter-offlinenotebook
 stanza
 pyvis
 networkx
+gensim
+spacy-stanza
+python-Levenshtein
