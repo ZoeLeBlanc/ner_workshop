@@ -8,5 +8,5 @@ stanza
 pyvis
 networkx
 gensim
-# spacy-stanza
+#spacy-stanza
 python-Levenshtein
